@@ -1,2 +1,2 @@
 # retro_noodle
-Game Off 2017! 
+Basic snake inspired game for Android devices.
